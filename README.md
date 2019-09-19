@@ -1,2 +1,5 @@
 # Studynotes
-just notes
+Python StudyNote
+JavaWeb StudyNote
+
+To be a life-learner!!!
