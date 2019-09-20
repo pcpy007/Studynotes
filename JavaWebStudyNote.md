@@ -1,6 +1,7 @@
 JavaWeb Study Note
 
-1.1	B/S 结构	
+1.1	B/S 结构
+
 	C/S :客户机/服务器
 		eg：QQ
 		软件更新，所有客户端都要更新
@@ -44,6 +45,7 @@ JavaWeb Study Note
 	%>
 	
 2 HTML基础
+
 	HTML：Hypertext Mark-up Language.超文本标记语言
 	
 	标签有两种类型：
