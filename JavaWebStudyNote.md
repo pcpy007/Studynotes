@@ -138,26 +138,26 @@ JavaWeb Study Note
 					src:图片存储的位置
 					width、height、border、align
 					alt:图片载入失败时的文字说明
-	表单标签：
-		文本框、密码框
-		表单组成：
-			<form action="提交地址">
-				表单内容(包括按钮、输入框、选择框等0
-			<form>
-		表单input标签，其type属性决定表单元素类型
-			text:文本框
-			password:密码框
-			radio:单选按钮
-			checkbox:复选框
-			reset:重置按钮
-			button:普通提交按钮
-			submit:提交按钮
-			image:图片,单击提交表单
-			多行文本框：<textarea></textarea> 使用rows属性表示其行数,用cols属性表示其列数
-			下拉菜单:其中的选项使用<option>选项内容</option>表示
-						multiple属性能将其设置为可多选
-						size属性的值为下拉菜单显示的项目数
-						selected为默认选项
+		6)表单标签：
+			文本框、密码框
+			表单组成：
+				<form action="提交地址">
+					表单内容(包括按钮、输入框、选择框等0
+				<form>
+			表单input标签，其type属性决定表单元素类型
+				text:文本框
+				password:密码框
+				radio:单选按钮
+				checkbox:复选框
+				reset:重置按钮
+				button:普通提交按钮
+				submit:提交按钮
+				image:图片,单击提交表单
+				多行文本框：<textarea></textarea> 使用rows属性表示其行数,用cols属性表示其列数
+				下拉菜单:其中的选项使用<option>选项内容</option>表示
+							multiple属性能将其设置为可多选
+							size属性的值为下拉菜单显示的项目数
+							selected为默认选项
 	框架:将几个页面作为一个页面的几个部分显示，每个窗口都是完整的HTML网页
 		写法：
 			<frameset cols = "30%,70%">
